@@ -1,2 +1,6 @@
-# Java-Spring-Boot-Assignment Week 1 (Backend) 
-Methodที่เพิ่มเข้ามา 2 Method คือ findByAgeLessThan(Integer age), findByCityEquals(String city)
+# Basic-Java-Spring-Boot-Workshop
+  - Assignment 1 Create new Service with add Method findByAgeLessThan and findByCityEquals.
+#Edit (24/04/21)
+  - update frontend insert data
+#Edit (25/04/21)
+  - add login system and sweetalert
